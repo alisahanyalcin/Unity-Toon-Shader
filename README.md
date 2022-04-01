@@ -3,8 +3,8 @@
 
 > Unity Editor Screen Shot
 
-![Binoculars](/Binoculars/Binoculars.png)
+![Binoculars](Binoculars/Binoculars.png)
 
 > Material Preview:
 
-![Binoculars Material](/Binoculars/Binoculars Material.png)
+![Binoculars Material](Binoculars/Binoculars Material.png)
