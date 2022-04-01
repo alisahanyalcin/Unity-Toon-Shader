@@ -6,5 +6,6 @@
 ![Binoculars](Screenshots/Binoculars/Binoculars.png)
 
 > Material Preview:
+> 
+![Binoculars](Screenshots/Binoculars/Binoculars Material.png)
 
-![Binoculars Material](Screenshots/Binoculars/Binoculars Material.png)
