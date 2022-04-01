@@ -6,7 +6,7 @@
 
 > ###### Binoculars Material Preview:
 >
-![Binoculars](Screenshots/Binoculars/Binoculars Material.png)
+![Binoculars](Screenshots/Binoculars/BinocularsMaterial.png)
 
 
 > ###### Bike Model Unity Editor Screen Shot
@@ -15,5 +15,5 @@
 
 > ###### Bike Material Preview:
 
-![Binoculars](Screenshots/Bike/Bike Material.png)
+![Binoculars](Screenshots/Bike/BikeMaterial.png)
 
